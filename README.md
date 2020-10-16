@@ -18,7 +18,7 @@ Angola start ups and their technologies.
 
 ## Kutoala
 
-##WenjiTech
+## WenjiTech
 
 ## BayQi
 
@@ -52,9 +52,9 @@ Angola start ups and their technologies.
 
 ## DuoTouch
 
-##Splashink
+## Splashink
 
-##AKI
+## AKI
 
 ## Sityur
 
